@@ -1,0 +1,21 @@
+{
+  "name": "s",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.1.1",
+    "bootstrap": "^4.0.0-beta.2",
+    "react": "^16.2.0",
+    "react-cookie": "^2.1.2",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "reactstrap": "^5.0.0-alpha.4"
+  },
+  "scripts": {
+    "start": "react-scripts start&&set Port = 8000",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

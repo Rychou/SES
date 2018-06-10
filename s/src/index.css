@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+th,tr,.table td{
+  vertical-align: middle;
+  text-align: center;
+}
+.red{
+  color: red;
+}
+#root{
+  display:flex;/*Flex布局*/
+  display: -webkit-flex; /* Safari */
+  align-items:center;/*指定垂直居中*/
+}
+
